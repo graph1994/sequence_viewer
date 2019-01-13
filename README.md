@@ -28,6 +28,7 @@ Base Requirements:
 ```sh
 $ cd sequence_viewer_app
 $ pip install -r requirements.txt
+$ python manage.py migrate
 $ python manage.py runserver
 ```
 ### Client
