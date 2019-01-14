@@ -9,6 +9,7 @@ This is a small project that allows you to add DNA strands to a table then view 
   - Add a sequence by clicking the Add + icon and filling out the form, prevents adding if sequence has invalid non DNA characters.
   
  ### Things to finish:
+ - Correctly update the Sequence Table without a hard refresh.
  - Better error validation so that it displays the server error code in the UI, prevent adding until a response from the server happens.
  - Add abilty to batch upload sequences by either uploading a file or manually copying and pasting.
  - Add abilty to Query NCBI directly using the public API.
