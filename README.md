@@ -15,7 +15,7 @@ This is a small project that allows you to add DNA strands to a table then view 
  - Add abilty to Query NCBI directly using the public API.
  - Clean up the styling, test all UI pieces along with Redux.
  - Find more scable way to display DNA syntax.
-
+ - Dockerize it! :D 
  
 
 ## Local Setup 
